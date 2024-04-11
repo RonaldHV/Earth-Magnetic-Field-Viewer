@@ -8,7 +8,7 @@ In the notebook, the magnetic field elements are presented at a single point.
 
 The strength of the magnetic field is also displayed over a basemap. The result is shown below:
 
-![Magnetic field map](Figures\MagneticFieldMap.png "Magnetic field map")
+![Magnetic field map](/Figures/MagneticFieldMap.png)
 
 
 [Basemap](https://matplotlib.org/basemap/stable/) was used to achieve this result.
